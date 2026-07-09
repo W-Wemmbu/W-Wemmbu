@@ -34,28 +34,16 @@
 
 
 
+<img align="right" width="300" src="https://static.wikia.nocookie.net/unstable-universe-mc/images/1/15/Wemmbu_Skin.png/revision/latest?cb=20251226211654" alt="Wemmbu | Unstable Universe Wiki | Fandom">
 
+$$
+\color{#5e3a8c}{\text{Disc :  wemmb.uu }}
+$$
 
+$$
+\color{purple}{\text{ Hello,basic information below }}
+$$
 
-
-
-
-<details>
-<summary>👑 BYI </summary>
-
-- I often multitask while playing.
-- Please whisper before covering.
-- I may have replies delayed.
-- Not RP friendly. 
-- Please don't copy my skin.
-- Don't vent w/o asking.
-- Respect my space if i move away.
-- Don't force interactions.
-- Online ≠ Available
-
-</details>
-
-
-<kbd>Wemmbu/Kaz</kbd>
-<kbd>15</kbd>
-<kbd>male</kbd>
+$$
+\color{#8f5ccc}{\text{ 15 . Male . Transgender x Orchidsexual }}
+$$
