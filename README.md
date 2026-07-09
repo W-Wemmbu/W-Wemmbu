@@ -1,13 +1,5 @@
 
-
-
-HUGE WIP
-
-
-
-
-
-
+<img src="https://cdn.discordapp.com/attachments/1469204636366934061/1524917598691786973/Untitled89_20260709180621.png?ex=6a517daf&amp;is=6a502c2f&amp;hm=8003b2a5ec692c5d90cfbc7cb29caf0a48956c13620434f77388fde5079232da&amp;animated=true" alt="GIF - Untitled .png?ex=adaf&amp;is=acf&amp;hm=baeccdcfbccbcafacffdeda&amp;"/>
 
 
 
