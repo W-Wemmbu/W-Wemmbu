@@ -123,5 +123,7 @@ Unbreaking III
 
 
 <p align="right">
-  ✦ For ponytown usage only ✦
+  $$
+\color{#5e3a8c}{\text{✦ For ponytown usage only ✦ }}
+$$
 </p>
