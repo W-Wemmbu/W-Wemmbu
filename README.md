@@ -48,43 +48,20 @@ $$
 \color{#8f5ccc}{\text{ 15 . Male . Transgender x Orchidsexual }}
 $$
 
-<table align="center">
+
+
+
+  <table align="center">
 <tr>
 
 <td>
 <a href="#sword">
-<img src="assets/sword.png" width="48">
+<img src="sword.gif" width="64" alt="Void Sword">
 </a>
 </td>
 
-<td>
-<a href="#crown">
-<img src="assets/crown.png" width="48">
-</a>
-</td>
-
-<td>
-<a href="#book">
-<img src="assets/book.png" width="48">
-</a>
-</td>
-
-<td>
-<a href="#potion">
-<img src="assets/potion.png" width="48">
-</a>
-</td>
-
-<td>
-<a href="#pearl">
-<img src="assets/pearl.png" width="48">
-</a>
-</td>
-
-<td>
-<a href="#star">
-<img src="assets/star.png" width="48">
-</a>
+</tr>
+</table>
 </td>
 
 </tr>
