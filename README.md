@@ -120,7 +120,7 @@ Unbreaking III
 
 <td align="center">
 
-<a href="[YOUR_ATA_LINK](https://wemmb.atabook.org/)">
+<a href="https://wemmb.atabook.org/">
     <img src="ata.png" width="95" alt="ATA Book">
 </a>
 
