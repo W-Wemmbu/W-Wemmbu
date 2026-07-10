@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=40&pause=3000&color=9B6DFF&center=true&vCenter=true&repeat=false&width=900&lines=Contrary+to+popular+belief...;the+world+doesn't+actually+revolve+around+me.;I+know%2C+shocking.">
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=40&pause=3000&color=9B6DFF&center=true&vCenter=true&repeat=true&width=900&lines=Contrary+to+popular+belief...;the+world+doesn't+actually+revolve+around+me.;I+know%2C+shocking.">
 </p>
 
 
