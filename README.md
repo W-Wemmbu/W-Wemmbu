@@ -25,7 +25,11 @@
 
 
 
-
+<p align="right">
+  $$
+\color{#5e3a8c}{\text{  ╲ }}
+$$
+</p>
 
 
 
