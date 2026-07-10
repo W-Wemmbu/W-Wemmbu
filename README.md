@@ -126,7 +126,7 @@ Unbreaking III
 
 <br><br>
 
-<a href="[YOUR_STRAW_LINK](https://wemmbru.straw.page/)">
+<a href="(https://wemmbru.straw.page/)">
     <img src="straw.png" width="95" alt="Strawpage">
 </a>
 
