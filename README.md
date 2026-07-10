@@ -67,3 +67,16 @@ $$
 </tr>
 </table>
 </svg>
+
+
+$$
+\color{#5e3a8c}{\text{Feel free to Tag me where ever }}
+$$
+
+$$
+\color{purple}{\text{ Do not copy skins, all skins will have THIS github }}
+$$
+
+$$
+\color{#8f5ccc}{\text{ oomf me up pls }}
+$$
