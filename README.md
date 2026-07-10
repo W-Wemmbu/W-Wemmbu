@@ -80,3 +80,48 @@ $$
 $$
 \color{#8f5ccc}{\text{ oomf me up pls }}
 $$
+
+
+<table>
+<tr>
+
+<td width="140" align="center">
+
+<img src="Enchanted_Mace.gif" width="110" alt="Enchanted Mace">
+
+</td>
+
+<td>
+
+##  EnchantDIHd Mace
+
+> *"MACE ATTACK!!!."*
+
+```text
+══════════════════════════════
+Rarity
+✦✦✦✦✦ . LEGENDARY
+
+Attack Damage
++12
+
+Owner
+W-Wemmbu
+
+Enchantments
+Wind Burst III
+Unbreaking III
+
+
+══════════════════════════════
+```
+
+</td>
+
+</tr>
+</table> 
+
+
+<p align="right">
+  ✦ For ponytown usage only ✦
+</p>
