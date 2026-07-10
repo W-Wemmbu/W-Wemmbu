@@ -45,7 +45,7 @@ $$
 $$
 
 $$
-\color{#8f5ccc}{\text{ 15 . Male . Transgender x Orchidsexual }}
+\color{#8f5ccc}{\text{ minor . Male . Transgender x Orchidsexual }}
 $$
 
 
