@@ -81,7 +81,6 @@ $$
 \color{#8f5ccc}{\text{ oomf me up pls }}
 $$
 
-
 <table>
 <tr>
 
@@ -93,7 +92,7 @@ $$
 
 <td>
 
-##  EnchantDIHd Mace
+## EnchantDIHd Mace
 
 > *"MACE ATTACK!!!."*
 
@@ -112,15 +111,29 @@ Enchantments
 Wind Burst III
 Unbreaking III
 
-
 ══════════════════════════════
 ```
 
 </td>
 
-</tr>
-</table> 
+<td width="60"></td>
 
+<td align="center">
+
+<a href="[YOUR_ATA_LINK](https://wemmb.atabook.org/)">
+    <img src="ata.png" width="95" alt="ATA Book">
+</a>
+
+<br><br>
+
+<a href="[YOUR_STRAW_LINK](https://wemmbru.straw.page/)">
+    <img src="straw.png" width="95" alt="Strawpage">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <p align="right">
   $$
