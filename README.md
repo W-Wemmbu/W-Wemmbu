@@ -58,7 +58,7 @@ $$
 
 <td>
 <a href="#sword">
-<img src="sword.gif" width="64" alt="Void Sword">
+<img src="Feather_JE1.webp" width="64" alt="Void Sword">
 </a>
 </td>
 
