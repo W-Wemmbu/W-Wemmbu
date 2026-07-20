@@ -96,7 +96,7 @@ $$
 
 ## EnchantDIHd Mace
 
-> *"MACE ATTACK!!!."*
+> *"Wemmbu, I knew you were annoying, but not like a psychopath!."*
 
 ```text
 ══════════════════════════════
@@ -139,6 +139,6 @@ Unbreaking III
 
 <p align="right">
   $$
-\color{#5e3a8c}{\text{✦ For ponytown usage only ✦ }}
+\color{#F7A334}{\text{✦ For ponytown usage only ✦ }}
 $$
 </p>
