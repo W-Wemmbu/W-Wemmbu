@@ -138,6 +138,21 @@ Unbreaking III
 </table>
 
 <p align="right">
+
+
+<details>
+<summary> Nest</summary>
+
+favourite things i own. 
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1469204636366934061/1528657057161678908/IMG_20260720_0254322162.jpg?ex=6a5f1853&amp;is=6a5dc6d3&amp;hm=c94c8a9449fd0d953bc9b2beaa3873a9421ca8961b416fb00e2c8824e996bf50&amp;animated=true" alt="Theo Image" width="350">
+</p>
+
+</details>
+
+
+
   $$
 \color{#F7A334}{\text{✦ For ponytown usage only ✦ }}
 $$
