@@ -1,5 +1,4 @@
-
-<img src="https://cdn.discordapp.com/attachments/1469204636366934061/1524917598691786973/Untitled89_20260709180621.png?ex=6a517daf&amp;is=6a502c2f&amp;hm=8003b2a5ec692c5d90cfbc7cb29caf0a48956c13620434f77388fde5079232da&amp;animated=true" alt="GIF - Untitled .png?ex=adaf&amp;is=acf&amp;hm=baeccdcfbccbcafacffdeda&amp;"/>
+<img src="https://cdn.discordapp.com/attachments/1469204636366934061/1528645247989715035/Untitled89_20260719230848.png?ex=6a5f0d53&amp;is=6a5dbbd3&amp;hm=1950c2d1de7af016740a6ea3df36fe86d4a0a2c35378fbbaf753398b275154d0&amp;animated=true" alt="GIF - Untitled .png?ex=afd&amp;is=adbbd&amp;hm=cddeafaeadffedaacfbbafbd&amp;"/>
 
 
 
@@ -19,15 +18,14 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=40&pause=3000&color=9B6DFF&center=true&vCenter=true&repeat=true&width=900&lines=Contrary+to+popular+belief...;the+world+doesn't+actually+revolve+around+me.;I+know%2C+shocking.">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=40&pause=3000&color=F58E27&center=true&vCenter=true&repeat=true&width=900&lines=IT'S+RAINING+LOOT...;HALLELUJAH!"></p>
 
 
 
 
 <p align="right">
   $$
-\color{#5e3a8c}{\text{  ╲ }}
+\color{#F58E27}{\text{  ╲ }}
 $$
 </p>
 
@@ -38,18 +36,18 @@ $$
 
 
 
-<img align="right" width="300" src="https://static.wikia.nocookie.net/unstable-universe-mc/images/1/15/Wemmbu_Skin.png/revision/latest?cb=20251226211654" alt="Wemmbu | Unstable Universe Wiki | Fandom">
+<img align="right" width="300" src="https://static.wikia.nocookie.net/unstable-universe-mc/images/f/f0/Theo_artistic_render_by_echo.png/revision/latest/scale-to-width/360?cb=20260216231030" alt="TheobaldTheBird | Unstable Universe Wiki | Fandom">
 
 $$
-\color{#5e3a8c}{\text{Disc :  wemmb.uu }}
-$$
-
-$$
-\color{purple}{\text{ Hello,basic information below }}
+\color{#D97816}{\text{Disc :  complex.yandere }}
 $$
 
 $$
-\color{#8f5ccc}{\text{ minor . Male . Transgender x Orchidsexual }}
+\color{#858585}{\text{ Hello, basic information below }}
+$$
+
+$$
+\color{#94352B}{\text{ minor . Male . Transgender x Orchidsexual }}
 $$
 
 
@@ -74,15 +72,15 @@ $$
 
 
 $$
-\color{#5e3a8c}{\text{Feel free to Tag me where ever }}
+\color{#94352B}{\text{Feel free to Tag me where ever }}
 $$
 
 $$
-\color{purple}{\text{ Do not copy skins, all skins will have THIS github }}
+\color{#858585}{\text{ Do not copy skins, all skins will have THIS github }}
 $$
 
 $$
-\color{#8f5ccc}{\text{ oomf me up pls }}
+\color{#D97816}{\text{ oomf me up pls }}
 $$
 
 <table>
@@ -106,10 +104,10 @@ Rarity
 ✦✦✦✦✦ . LEGENDARY
 
 Attack Damage
-+12
++11
 
 Owner
-W-Wemmbu
+The biggest bird (not YOU)
 
 Enchantments
 Wind Burst III
